@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/c-17-blue?logo=C)
 ![Static Badge](https://img.shields.io/badge/Shell%20-m?logo=Shell)
 
+## Установка
 Клонировать репозиторий
 ```bash
 pip install https://github.com/SBerik/multithreaded-tgbot-python-c.git
