@@ -8,6 +8,7 @@
 <p align="center">
 <img src="tgbott.png" alt="Image" />
 </p>
+
 ## Установка
 Клонировать репозиторий
 ```bash
