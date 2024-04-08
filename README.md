@@ -5,6 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/c-17-blue?logo=C)
 ![Static Badge](https://img.shields.io/badge/Shell%20-m?logo=Shell)
 
+![Пример изображения](tgbott.png)
+
 ## Установка
 Клонировать репозиторий
 ```bash
