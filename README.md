@@ -6,8 +6,9 @@
 ![Static Badge](https://img.shields.io/badge/Shell%20-m?logo=Shell)
 
 <p align="center">
-<img src="tgbott.png" alt="Image" />
+  <img src="tgbott.png" alt="Image" width="492" height="456" />
 </p>
+
 
 ## Установка
 Клонировать репозиторий
